@@ -2,6 +2,9 @@
 
 Open source clone of Sand:Box Android game written in C++ 
 
+<img width="424" height="601" alt="Przechwycenie obrazu ekranu_2025-07-19_02-54-20" src="https://github.com/user-attachments/assets/d38e0158-4c3d-4abb-929b-a4b81fcc27c1" />
+
+
 ## Notes
 - Game is in early stage
 - Game is touchscreen friendly
